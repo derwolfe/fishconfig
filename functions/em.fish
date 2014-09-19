@@ -1,3 +1,3 @@
 function em
-	open -a /Applications/Emacs.app/
+	open -a /Applications/Emacs.app $argv
 end

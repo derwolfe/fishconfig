@@ -1,3 +1,3 @@
 function teil
-	cd Code/teiler/
+	cd ~/Code/teiler/
 end
