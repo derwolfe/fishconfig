@@ -1,3 +1,4 @@
 function teil
-	cd ~/Code/teiler/
+	cd ~/Code/teiler/&
+	actenv check
 end
